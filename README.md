@@ -3,7 +3,7 @@
 </p>
 
 
-## VHDL COMPONENTS
+## LSD VHDL COMPONENTS
 
 ### Summary
 > This repository is composed of VHDL components used throughout the ISEL LEIC degree; It is meant to serve the ISEL-GT SEM1 LSD group as a
