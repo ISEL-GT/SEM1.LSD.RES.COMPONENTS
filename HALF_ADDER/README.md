@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://www.isel.pt/sites/default/files/001_imagens_isel/Logotipos/logo_ISEL_principal_Branco.png" alt="ISEL Logo" width="70%">
-</p>
-
-
 # HALF ADDER
 ![Static Badge](https://img.shields.io/badge/IN-1_BIT-blue)
 ![Static Badge](https://img.shields.io/badge/OUT-1_BIT-blue)
@@ -15,16 +10,16 @@
 > - The **Carry** is calculated using the AND gate, which outputs `1` only if both inputs are `1`.  
 
 > [!IMPORTANT]
-> The Half-Adder does not account for carry-in from a previous addition, meaning it is not suitable for multi-bit binary addition on its own but forms the basis for more complex circuits like the [Full Adder](../FULL_ADDER).
+> The Half-Adder does not account for carry-in from a previous addition, meaning it is not suitable for multi-bit binary addition on its own but forms the basis for more complex circuits like the [Full Adder](../FULL_ADDER ).
 
 ---
 <div align="center">
 
-| **A** | **B** | **Sum (A ⊕ B)** | **Carry (A ⋅ B)** |
-|-------|-------|-----------------|-------------------|
-| 0     | 0     | 0               | 0                 |
-| 0     | 1     | 1               | 0                 |
-| 1     | 0     | 1               | 0                 |
-| 1     | 1     | 0               | 1                 |
+| **A** | **B** | **SUM** | **CARRY OUT** |
+|-------|-------|---------|---------------|
+| 0     | 0     | 0       | 0             |
+| 0     | 1     | 1       | 0             |
+| 1     | 0     | 1       | 0             |
+| 1     | 1     | 0       | 1             |
 
 </div>
