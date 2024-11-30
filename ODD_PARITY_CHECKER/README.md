@@ -2,8 +2,6 @@
 ![Static Badge](https://img.shields.io/badge/IN-1_BIT-blue)
 ![Static Badge](https://img.shields.io/badge/OUT-1_BIT-blue)
 
-
-### Summary
 > An Odd Input Parity Checker with a Z output is a digital circuit that checks both the parity of the input bits and whether all inputs are zero. It has multiple binary inputs and produces two outputs: **Parity** and **Z**.
 > - The **Parity** output is `1` if the number of `1` bits in the input is odd, and `0` if the number of `1` bits is even. This is determined using XOR gates that continuously compare the bits.
 > - The **Z** output is `1` if all input bits are `0` (i.e., the input is all-zero), and `0` otherwise. This is typically checked using a NOR gate, which outputs `1` only when all inputs are `0`.  
