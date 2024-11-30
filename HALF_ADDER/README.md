@@ -15,7 +15,7 @@
 > - The **Carry** is calculated using the AND gate, which outputs `1` only if both inputs are `1`.  
 
 > [!IMPORTANT]
-> The Half-Adder does not account for carry-in from a previous addition, meaning it is not suitable for multi-bit binary addition on its own but forms the basis for more complex circuits like the [Full Adder](full_adder).
+> The Half-Adder does not account for carry-in from a previous addition, meaning it is not suitable for multi-bit binary addition on its own but forms the basis for more complex circuits like the [Full Adder](../full_adder).
 
 ---
 <div align="center">
