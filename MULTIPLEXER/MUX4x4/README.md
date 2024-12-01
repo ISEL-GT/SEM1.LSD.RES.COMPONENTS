@@ -1,4 +1,4 @@
-# MULTIPLEXER (3 INPUTS of 1 BIT)
+# MULTIPLEXER (4 INPUTS of 4 BITS)
 ![Static Badge](https://img.shields.io/badge/IN-4_BIT-green)
 ![Static Badge](https://img.shields.io/badge/OUT-4_BIT-green)
 ![Static Badge](https://img.shields.io/badge/2_SELECTORS-1_BIT-blue)
