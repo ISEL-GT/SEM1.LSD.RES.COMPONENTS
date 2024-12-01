@@ -1,4 +1,4 @@
-# ODD INPUT PARITY CHECKER
+# ADDER (4 BITS)
 ![Static Badge](https://img.shields.io/badge/IN-4_BIT-green)
 ![Static Badge](https://img.shields.io/badge/OUT-4_BIT-green)
 ![Static Badge](https://img.shields.io/badge/CARRY_IN-1_BIT-blue)
