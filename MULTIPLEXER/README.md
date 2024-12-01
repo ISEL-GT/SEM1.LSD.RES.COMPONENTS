@@ -13,10 +13,10 @@
 ---
 <div align="center">
 
-|              | **1 BIT** | **2 BIT** | **4 BIT** | **8 BIT** | **16 BIT** |
-|--------------|-----------|-----------|-----------|-----------|------------|
-| **2 INPUTS** | MUX2x1    | MUX4x1    | MUX8x1    | MUX16x1   | MUX32x1    |
-| **3 INPUTS** | MUX2x2    | MUX4x2    | MUX8x2    | MUX16x2   | MUX32x2    |
-| **4 INPUTS** | MUX2x4    | MUX4x4    | MUX8x4    | MUX16x4   | MUX32x4    |
+|              | **1 BIT**        | **2 BIT** | **4 BIT**        |
+|--------------|------------------|-----------|------------------|
+| **2 INPUTS** | -                | -         | [MUX2x4](MUX2x4) |
+| **3 INPUTS** | [MUX3x1](MUX3x1) | -         | -                |
+| **4 INPUTS** | -                | -         | [MUX4x4](MUX4x4) |
 
 </div>
